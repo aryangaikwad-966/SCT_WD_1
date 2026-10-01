@@ -5,7 +5,7 @@
       --nav-bg-scrolled: rgba(266, 255, 255, 0.85);
       --nav-border: transparent;
       --nav-border-scrolled: rgba(0,0,0,0.06);
-      --link: #111;
+      --link: #222;
       --link-hover: #0f9d58;
     }
     * { box-sizing: border-box; }
