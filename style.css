@@ -2,7 +2,7 @@
     :root {
       --nav-height: 56px;
       --nav-bg: rgba(255, 255, 255, 0);
-      --nav-bg-scrolled: rgba(255, 255, 255, 0.85);
+      --nav-bg-scrolled: rgba(266, 255, 255, 0.85);
       --nav-border: transparent;
       --nav-border-scrolled: rgba(0,0,0,0.06);
       --link: #111;
