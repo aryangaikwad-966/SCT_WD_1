@@ -1,6 +1,6 @@
 
     :root {
-      --nav-height: 56px;
+      --nav-height: 100px;
       --nav-bg: rgba(255, 255, 255, 0);
       --nav-bg-scrolled: rgba(266, 255, 255, 0.85);
       --nav-border: transparent;
